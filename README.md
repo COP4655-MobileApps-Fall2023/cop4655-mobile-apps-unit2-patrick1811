@@ -12,7 +12,7 @@ The following **required** functionality is completed:
 
 - [ ] Users are able to see a customized app icon and launch screen
 - [ x] Your app should work for any screen size and orientation using AutoLayout constraints
-  - [ ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
+  - [x ] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both, then erase this text
 - [x ] Displays at least 5 different movies in a table view
 - [x ] Can tap into detail view of movie with a full description, backdrop image, and title
  
@@ -28,11 +28,12 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
+[
+](https://www.loom.com/share/Library-or-Loom-13-September-2023-39693ffa566f4b41a237b57d87c08e14)
+
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
-.[
-](https://www.loom.com/share/Library-or-Loom-12-September-2023-556c7f98636c49a7954636386908e5e5?sid=46c6358a-b149-43ba-8c7c-31e8bb8397db)
-## Notes
+
 
 Describe any challenges encountered while building the app.
 
